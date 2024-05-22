@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "770444030584",
+    "project_id": "atelier-3-e9e74",
+    "storage_bucket": "atelier-3-e9e74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770444030584:android:a7b229461838034e17338d",
+        "android_client_info": {
+          "package_name": "enig.dhiya_oueslati.atelier_3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqSD0JPnXzk2P5eo60D2cOh79hS7D21jg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
